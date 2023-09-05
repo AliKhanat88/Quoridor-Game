@@ -3,7 +3,7 @@
 ![image](https://github.com/AliKhanat88/Quoridor-Game/assets/69969910/264d7377-76d7-4ca2-88d5-c6f9da8d9c48)
 
 
-- Designed and developed a Quoridor game using Python and the Pygame library to provide an engaging and interactive gaming experience.
+-Designed and developed a Quoridor game using Python and the Pygame library to provide an engaging and interactive gaming experience.
 
   
 -Utilized Data Structures and Algorithms (DSA) techniques to implement a shortest path algorithm, enhancing the game's strategic depth.
